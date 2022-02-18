@@ -1,0 +1,63 @@
+body {
+    background-color:#BEE8E0 ;
+}
+nav {
+    background-color: #EDDDAB;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+li.navlink {
+    display: inline-block;
+}
+a {
+    padding: 30px;
+}
+
+header.image {
+    padding-right: 300px;
+    padding-left: 300px;
+}
+
+.needhelp {
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.examples {
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.list {
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+div {
+   float: left;
+   margin: 10px;
+}
+
+.footer {
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
